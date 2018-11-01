@@ -1,0 +1,2934 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+
+    <head>
+
+        
+
+            <!--
+                ################################# CRAWLER WARNING #################################
+
+                - The terms of service and the robots.txt file disallows crawling the site,
+                  please see https://omim.org/help/agreement and https://omim.org/robots.txt for
+                  more information.
+
+                - A number of data file are available for download at https://omim.org/downloads.
+
+                - We have an API you can learn about at https://omim.org/api and https://omim.org/help/api,
+                  this provides access to the data in XML, JSON, Python and Ruby formats.
+
+                - You should feel free to contact us at https://omim.org/contact to figure out the best
+                  approach to getting the data you need.
+
+                - YOUR IP ADDRESS WILL BE AUTOMATICALLY BLOCKED SHOULD YOU CHOOSE TO IGNORE THIS
+                  AND CRAWL THE SITE ANYWAY.
+
+                ################################# CRAWLER WARNING #################################
+            -->
+
+            <title>
+                
+    OMIM Entry
+    
+         - * 600301 - ACYL-CoA DEHYDROGENASE, SHORT/BRANCHED CHAIN; ACADSB
+    
+
+            </title>
+
+            
+                <meta contentType-equiv="Content-Type" content="text/html; charset=utf-8" />
+            
+
+            
+                
+                
+            
+
+            
+                <meta name="robots" content="index, follow, archive, snippet" />
+            
+
+
+            
+                <meta name="msvalidate.01" content="BB72A41A25D0144D058AB397B74C33D8" />
+            
+
+
+            
+                
+                    <meta name="google-site-verification" content="zt7Vx5s_mbT_HLRqkhVi6YwLJErL3HHYTF6dTgGyoV4" />
+                
+            
+
+            
+                
+                    <script type="text/javascript">
+                        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                        ga('create', 'UA-20344157-1', 'auto');
+                        ga('send', 'pageview');
+                    </script>
+                
+            
+
+            
+                <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            
+
+            
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+            
+
+
+            
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.1/jquery-migrate.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha256-ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4=" crossorigin="anonymous" />
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.js" integrity="sha256-59IZ5dbLyByZgSsRE3Z0TjDuX7e1AiqW5bZ8Bg50dsU=" crossorigin="anonymous"></script>
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js" integrity="sha256-5YmaxAwMjIpMrVlK84Y/+NjCpKnFYa8bWWBbUHSBGfU=" crossorigin="anonymous"></script>
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css" integrity="sha256-yMjaV542P+q1RnH6XByCPDfUFhmOafWbeLPmqKh11zo=" crossorigin="anonymous" />
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.js" integrity="sha256-a+PRq3NbyK3G08Boio9X6+yFiHpTSIrbE7uzZvqmDac=" crossorigin="anonymous"></script>
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.css" integrity="sha256-JvdVmxv7Q0LsN1EJo2zc1rACwzatOzkyx11YI4aP9PY=" crossorigin="anonymous" />
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.9/jquery.autocomplete.min.js" integrity="sha256-CA1BfwIJ3XnP7Jx7XaRKrrmJILIn+4skJeDB2YVo6nw=" crossorigin="anonymous"></script>
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollToFixed/1.0.8/jquery-scrolltofixed-min.js" integrity="sha256-Kl1vQ0yioe6J6idmj55qGNgoOrKOTJh4WYFdmiVnvZw=" crossorigin="anonymous"></script>
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js" integrity="sha256-9Nt2r+tJnSd2A2CRUvnjgsD+ES1ExvjbjBNqidm9doI=" crossorigin="anonymous"></script>
+                    
+                
+
+                
+                
+                    
+                    
+                        
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" integrity="sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=" crossorigin="anonymous"></script>
+                    
+                
+
+            
+
+
+            
+
+                
+                <script type="text/javascript" src="/static/omim/js/site.js"></script>
+
+                
+                <link rel="stylesheet" type="text/css" media="all" href="/static/omim/css/site.css" />
+
+                
+    <script type="text/javascript" src="/static/omim/js/entry/entry.js"></script>
+    <script type="text/javascript" src="/static/omim/js/mimmatch/mimmatch.js"></script>
+
+
+            
+
+
+            
+                <link rel="icon" href="/static/favicon.ico" />
+            
+
+            
+                <meta name="title" content="Online Mendelian Inheritance in Man (OMIM)" />
+            
+
+            
+     
+        <meta name="description" content="600301 - ACYL-CoA DEHYDROGENASE, SHORT/BRANCHED CHAIN; ACADSB
+        
+            - SBCAD;;
+2-METHYLBUTYRYL-CoA DEHYDROGENASE
+        
+        
+        
+            - ACADSB
+        
+        " />
+    
+
+
+            
+                <meta name="keywords" content="Mendelian Inheritance in Man, OMIM, Mendelian diseases, Mendelian disorders, genetic diseases,
+                    genetic disorders, genetic disorders in humans, genetic  phenotypes, phenotype and genotype, disease models, alleles,
+                    genes, dna, genetics, dna testing, gene testing, clinical synopsis, medical genetics" />
+            
+
+
+            
+                <div id="users-device-size">
+                    <div id="xs" class="visible-xs"></div>
+                    <div id="sm" class="visible-sm"></div>
+                    <div id="md" class="visible-md"></div>
+                    <div id="lg" class="visible-lg"></div>
+                </div>
+            
+
+        
+
+    </head>
+
+    <body>
+        <div id="body">
+            
+
+    <div id="header" class="hidden-print">
+        
+
+            
+                <nav class="navbar navbar-inverse navbar-fixed-top mim-navbar-background">
+                    <div class="container-fluid">
+
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            
+                            <a class="navbar-brand" href="/"><img alt="OMIM" src="/static/omim/icons/OMIM_davinciman.001.png" height="30" width="30"></a>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="navbar-collapse">
+
+                            <ul class="nav navbar-nav">
+
+                                
+                                    <li><a href="/about"><span class="mim-navbar-menu-font">About</span></a></li>
+                                
+
+                                
+                                    <li class="dropdown">
+                                        <a href="#" id="statisticsDropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="mim-navbar-menu-font">Statistics <span class="caret"></span></span></a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="statisticsDropdown">
+                                            <li><a href="/statistics/update">Update List</a></li>
+                                            <li><a href="/statistics/entry">Entry Statistics</a></li>
+                                            <li><a href="/statistics/geneMap">Phenotype-Gene Statistics</a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+
+                                
+                                    <li class="dropdown">
+                                        <a href="#" id="downloadsDropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="mim-navbar-menu-font">Downloads <span class="caret"></span></span></a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="downloadsDropdown">
+                                            
+                                                <li><a href="/downloads/">Register for Downloads</a></li>
+                                                <li><a href="/api">Register for API Access</a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+
+                                
+    <li><a href="/contact?mimNumber=600301"><span class="mim-navbar-menu-font">Contact Us</span></a></li>
+
+
+                                
+                                    
+                                        <li>
+                                            
+                                                <a href="/mimmatch/"
+                                            
+                                                >
+                                                <span class="mim-navbar-menu-font">
+                                                    <span class="mim-tip-bottom" qtip_title="<strong>MIMmatch</strong>" qtip_text="MIMmatch is a way to follow OMIM entries that interest you and to find other researchers who may share interest in the same entries. <br /><br />A bonus to all MIMmatch users is the option to sign up for updates on new gene-phenotype relationships.">
+                                                        MIMmatch
+                                                    </span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    
+                                
+
+                                
+                                    <li class="dropdown">
+                                        <a href="#" id="donateDropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="mim-navbar-menu-font">Donate <span class="caret"></span></span></a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="donateDropdown">
+                                            <li><a href="https://secure.jhu.edu/form/OMIM" target="_blank" onclick="ga('send', 'event', 'Donation', 'Donation', 'secure.jhu.edu')">Donate!</a></li>
+                                            <li><a href="/donors">Donors</a></li>
+                                        </ul>
+                                    </li>
+                                
+
+                                
+                                    <li class="dropdown">
+                                        <a href="#" id="helpDropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="mim-navbar-menu-font">Help <span class="caret"></span></span></a>
+                                        <ul class="dropdown-menu" role="menu" aria-labelledby="helpDropdown">
+                                            <li><a href="/help/faq">Frequently Asked Questions (FAQs)</a></li>
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="/help/search">Search Help</a></li>
+                                            <li><a href="/help/linking">Linking Help</a></li>
+                                            <li><a href="/help/api">API Help</a></li>
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="/help/external">External Links</a></li>
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="/help/agreement">Use Agreement</a></li>
+                                            <li><a href="/help/copyright">Copyright</a></li>
+                                        </ul>
+                                    </li>
+                                
+
+                                
+                                    <li><a href="#" id="showTips" class="mim-hint" title="Click to reveal all tips on the page. You can also hover over individual elements to reveal the tip."><span class="mim-navbar-menu-font"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></span></a></li>
+                                
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+                </nav>
+            
+
+        
+    </div>
+    <!-- <div id="header"> -->
+
+
+    
+    
+    
+
+
+
+
+
+
+<div id="search" class="hidden-print">
+
+    <div class="container">
+
+        
+            <form method="get" action="/search/" name="entrySearchForm" class="form-horizontal">
+        
+
+        <input type="hidden" name="index" value="entry" />
+        <input type="hidden" name="start" value="1" />
+        <input type="hidden" name="limit" value="10" />
+        <input type="hidden" name="sort" value="score desc, prefix_sort desc" />
+
+        <div class="row">
+
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                
+                <div class="form-group">
+                    <div class="input-group">
+                        <input type="search" id="entrySearch" name="search" class="form-control" value="" placeholder="Search OMIM..." maxlength="5000" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+                        <div class="input-group-btn">
+                            <button type="submit" id="submitSearch" class="btn btn-default">&nbsp;&nbsp;<span class="glyphicon glyphicon-search"></span>&nbsp;&nbsp;</button>
+                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Options <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-menu-right">
+                                <li class="dropdown-header">Advanced Search</li>
+                                <li><a href="/search/advanced/entry">&nbsp;&nbsp;OMIM</a></li>
+                                <li><a href="/search/advanced/clinicalSynopsis">&nbsp;&nbsp;Clinical Synopses</a></li>
+                                <li><a href="/search/advanced/geneMap">&nbsp;&nbsp;Gene Map</a></li>
+                                
+                                
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="/history/">Search History</a></li>
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="autocomplete" id="entrySearchAutocomplete"></div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                <span class="small">
+                    
+
+
+                    
+                </span>
+            </div>
+
+        </div>
+
+
+
+
+
+        
+
+
+        
+            </form>
+        
+
+        <div class="row">
+            <p/>
+        </div>
+
+    </div>
+
+</div>
+<!-- <div id="search"> -->
+
+
+
+
+    <div id="content">
+        
+
+    <div class="container hidden-print">
+
+        
+
+
+
+
+
+<div class="row">
+
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+        <div id="alertBanner">
+
+            
+
+            
+
+            
+
+            
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+        <div class="row">
+
+            
+
+                
+                <div class="col-lg-2 col-md-2 col-sm-2 hidden-sm hidden-xs">
+
+                    <div id="floatingTocMenu" class="small" role="navigation">
+
+                        <p>
+                            <span class="h4">*600301</span>
+                            <br/>
+                            <strong>Table of Contents </strong>
+                        </p>
+
+                        <nav>
+                            <ul id="floatingTocMenuItems" class="nav nav-pills nav-stacked mim-floating-toc-padding">
+
+                                <li role="presentation">
+                                    <a href="#title"><strong>Title</strong></a>
+                                </li>
+
+                                
+                                    
+                                        <li role="presentation">
+                                            <a href="#geneMap"><strong>Gene-Phenotype Relationships</strong></a>
+                                        </li>
+                                    
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#text"><strong>Text</strong></a>
+                                    </li>
+                                    
+                                        
+                                            
+                                            
+                                                <li role="presentation" style="margin-left: 1em">
+                                                    <a href="#description">Description</a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                                <li role="presentation" style="margin-left: 1em">
+                                                    <a href="#cloning">Cloning and Expression</a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                                <li role="presentation" style="margin-left: 1em">
+                                                    <a href="#geneStructure">Gene Structure</a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                                <li role="presentation" style="margin-left: 1em">
+                                                    <a href="#mapping">Mapping</a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                                <li role="presentation" style="margin-left: 1em">
+                                                    <a href="#molecularGenetics">Molecular Genetics</a>
+                                                </li>
+                                            
+                                        
+                                    
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#allelicVariants"><strong>Allelic Variants</strong></a>
+                                    </li>
+                                    <li role="presentation" style="margin-left: 1em">
+                                        <a href="/allelicVariant/600301">Table View</a>
+                                    </li>
+                                
+
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#references"><strong>References</strong></a>
+                                    </li>
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#contributors"><strong>Contributors</strong></a>
+                                    </li>
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#creationDate"><strong>Creation Date</strong></a>
+                                    </li>
+                                
+
+                                
+                                    <li role="presentation">
+                                        <a href="#editHistory"><strong>Edit History</strong></a>
+                                    </li>
+                                
+                            </ul>
+
+                        </nav>
+
+                        
+
+                    </div>
+
+                </div>
+
+
+                
+                <div class="col-lg-2 col-lg-push-8 col-md-2 col-md-push-8 col-sm-2 col-sm-push-8 col-xs-12">
+
+
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+                    
+
+                    
+
+
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+
+                        
+                            
+                        
+
+                        
+                            
+                        
+
+
+
+                        
+
+                        
+                            
+                        
+
+                        
+                            
+                        
+
+                        
+
+                        
+                            
+                                
+                            
+                        
+
+                        
+                            
+                        
+
+                    
+
+
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+                        
+                            
+                        
+                    
+
+                    
+                        
+                    
+
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+                        
+                    
+
+                    
+
+                    
+
+                    
+
+
+                    
+
+                        <div id="floatingLinksMenu">
+
+                            <div class="panel panel-primary" style="margin-bottom: 0px; border-radius: 4px 4px 0px 0px">
+                                <div class="panel-heading mim-panel-heading" role="tab" id="externalLinks">
+                                    <h4 class="panel-title">
+                                        <a href="#externalLinksFold" id="externalLinksToggle" class="triangleToggle" role="button" data-toggle="collapse">
+                                            <div style="display: table-row">
+                                                <div id="externalLinksToggleTriangle" class="small" style="color: white; display: table-cell;">&#9660;</div>
+                                                &nbsp;
+                                                <div style="display: table-cell;">External Links</div>
+                                            </div>
+                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+
+                            <div id="externalLinksFold" class="collapse in">
+
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="genome">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#genomeLinksFold" id="genomeLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <span id="genomeLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5">&#9658;</span> Genome
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="genomeLinksFold" class="panel-collapse collapse linksFold" role="tabpanel" aria-labelledby="genome">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="http://www.ensembl.org/Homo_sapiens/Location/View?db=core;g=ENSG00000196177;t=ENST00000368869.8" class="mim-hint" title="Genome databases for vertebrates and other eukaryotic species." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Ensembl', 'ensembl.org')">Ensembl</a></div>
+                                                    
+
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/genome/gdv/browser/?context=gene&acc=36" class="mim-hint" title="Detailed views of the complete genomes of selected organisms from vertebrates to protozoa." target="_blank" onclick="ga('send', 'event', 'Outbound', 'NCBI Genome Data Viewer', 'ncbi.nlm.nih.gov')">NCBI Genome Data Viewer</a></div>
+                                                    
+
+                                                    <div><a href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&hgFind=omimGeneAcc&position=600301" class="mim-hint" title="UCSC Genome Browser; reference sequences and working draft assemblies for a large collection of genomes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'UCSC Genome Browser', 'genome.ucsc.edu')">UCSC Genome Browser</a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="dna">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#dnaLinksFold" id="dnaLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <span id="dnaLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5">&#9658;</span> DNA
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="dnaLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="http://www.ensembl.org/Homo_sapiens/Transcript/Sequence_cDNA?db=core;g=ENSG00000196177;t=ENST00000368869.8" class="mim-hint" title="Transcript-based views for coding and noncoding DNA." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Ensembl', 'ensembl.org')">Ensembl</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/nuccore/96361828,1054279083" class="mim-hint" title="A collection of genome, gene, and transcript sequence data from several sources, including GenBank, RefSeq." target="_blank" onclick="ga('send', 'event', 'Outbound', 'NCBI RefSeq', 'ncbi.nlm.nih')">NCBI RefSeq</a></div>
+                                                    
+
+                                                    <div><a href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&hgFind=omimGeneAcc&position=600301" class="mim-hint" title="UCSC Genome Browser; reference sequences and working draft assemblies for a large collection of genomes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'UCSC Genome Browser', 'genome.ucsc.edu')">UCSC Genome Browser</a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="protein">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#proteinLinksFold" id="proteinLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <span id="proteinLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5">&#9658;</span> Protein
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="proteinLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="http://hprd.org/summary?hprd_id=02626&isoform_id=02626_1&isoform_name=Isoform_1" class="mim-hint" title="The Human Protein Reference Database; manually extracted and visually depicted information on human proteins." target="_blank" onclick="ga('send', 'event', 'Outbound', 'HPRD', 'hprd.org')">HPRD</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="http://www.proteinatlas.org/search/ACADSB" class="mim-hint" title="The Human Protein Atlas contains information for a large majority of all human protein-coding genes regarding the expression and localization of the corresponding proteins based on both RNA and protein data." target="_blank" onclick="ga('send', 'event', 'Outbound', 'HumanProteinAtlas', 'proteinatlas.org')">Human Protein Atlas</a></div>
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://www.uniprot.org/uniprot/P45954" class="mim-hint" title="Comprehensive protein sequence and functional information, including supporting data." target="_blank" onclick="ga('send', 'event', 'Outbound', 'UniProt', 'uniprot.org')">UniProt</a></div>
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="geneInfo">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#geneInfoLinksFold" id="geneInfoLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <div style="display: table-row">
+                                                                <div id="geneInfoLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5; display: table-cell;">&#9658;</div>
+                                                                &nbsp;
+                                                                <div style="display: table-cell;">Gene Info</div>
+                                                            </div>
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="geneInfoLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="http://biogps.org/gene/36/" class="mim-hint" title="The Gene Portal Hub; customizable portal of gene and protein function information." target="_blank" onclick="ga('send', 'event', 'Outbound', 'BioGPS', 'biogps.org')">BioGPS</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="http://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=%ENSG00000196177;t=ENST00000368869.8" class="mim-hint" title="Orthologs, paralogs, regulatory regions, and splice variants." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Ensembl', 'ensembl.org')">Ensembl</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ACADSB" class="mim-hint" title="The Human Genome Compendium; web-based cards integrating automatically mined information on human genes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'GeneCards', 'genecards.org')">GeneCards</a></div>
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://amigo.geneontology.org/amigo/search/annotation?q=ACADSB" class="mim-hint" title="Terms, defined using controlled vocabulary, representing gene product properties (biologic process, cellular component, molecular function) across species." target="_blank" onclick="ga('send', 'event', 'Outbound', 'GeneOntology', 'amigo.geneontology.org')">Gene Ontology</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        <div><a href="http://www.genome.jp/dbget-bin/www_bget?hsa+36" class="mim-hint" title="Kyoto Encyclopedia of Genes and Genomes; diagrams of signaling pathways." target="_blank" onclick="ga('send', 'event', 'Outbound', 'KEGG', 'genome.jp')">KEGG</a></div>
+                                                    
+
+                                                    
+                                                        <dd><a href="http://marrvel.org/search/gene/ACADSB" class="mim-hint" title="Model organism Aggregated Resources for Rare Variant ExpLoration." target="_blank" onclick="ga('send', 'event', 'Outbound', 'MARRVEL', 'marrvel.org')">MARRVEL</a></dd>
+                                                    
+
+                                                    
+                                                        <dd><a href="https://monarchinitiative.org/gene/NCBIGene:36" class="mim-hint" title="Monarch Initiative." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Monarch', 'monarchinitiative.org')">Monarch</a></dd>
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/gene/36" class="mim-hint" title="Gene-specific map, sequence, expression, structure, function, citation, and homology data." target="_blank" onclick="ga('send', 'event', 'Outbound', 'NCBI Gene', 'ncbi.nlm.nih.gov')">NCBI Gene</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="https://genome.ucsc.edu/cgi-bin/hgGene?db=hg38&hgg_chrom=chr10&hgg_gene=uc001lhb.4&hgg_start=123008912&hgg_end=123058289&hgg_type=knownGene" class="mim-hint" title="UCSC Genome Bioinformatics; gene-specific structure and function information with links to other databases." target="_blank" onclick="ga('send', 'event', 'Outbound', 'UCSC', 'genome.ucsc.edu')">UCSC</a></div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="clinicalResources">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#clinicalResourcesLinksFold" id="clinicalResourcesLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <div style="display: table-row">
+                                                                <div id="clinicalResourcesLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5; display: table-cell;">&#9658;</div>
+                                                                &nbsp;
+                                                                <div style="display: table-cell;">Clinical Resources</div>
+                                                            </div>
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="clinicalResourcesLinksFold" class="panel-collapse collapse linksFold" role="tabpanel" aria-labelledby="clinicalResources">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/clingen_gene.cgi?sym=ACADSB" class="mim-hint" title="A ClinGen curated resource of genes and regions of the genome that are dosage sensitive and should be targeted on a cytogenomic array." target="_blank" onclick="ga('send', 'event', 'Outbound', 'ClinGen Dosage', 'ncbi.nlm.nih.gov')">ClinGen Dosage</a></div>
+                                                    
+
+                                                    
+
+                                                    
+
+
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="https://ghr.nlm.nih.gov/gene/ACADSB" class="mim-hint" title="Consumer-friendly information about the effects of genetic variation on human health." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Genetics Home Reference', 'ghr.nlm.nih.gov')">Genetics Home Reference</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/gtr/all/tests/?term=600301[mim]" class="mim-hint" title="Genetic Testing Registry." target="_blank" onclick="ga('send', 'event', 'Outbound', 'GTR', 'ncbi.nlm.nih.gov')">GTR</a></div>
+                                                    
+
+
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="variation">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#variationLinksFold" id="variationLinksToggle" class=" singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <span id="variationLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5">&#9660;</span> Variation
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="variationLinksFold" class="panel-collapse collapse in linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        <div><a href="http://browser.1000genomes.org/Homo_sapiens/Gene/Variation_Gene/Table?db=core;g=ENSG00000196177" class="mim-hint" title="1000 Genome - A deep catalog of human genetic variation." target="_blank" onclick="ga('send', 'event', 'Outbound', '1000 Genome', '1000genomes.org')">1000 Genome</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/clinvar?term=600301[MIM]" class="mim-hint" title="ClinVar aggregates information about sequence variation and its relationship to human health." target="_blank" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">ClinVar</a></div>
+                                                    
+
+
+
+                                                    
+                                                        <div><a href="http://exac.broadinstitute.org/gene/ENSG00000196177" class="mim-hint" title="Exome Aggregation Consortium (ExAC) browser, Broad Institute." target="_blank" onclick="ga('send', 'event', 'Outbound', 'ExAC', 'exac.broadinstitute.org')">ExAC</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="http://gnomad.broadinstitute.org/gene/ENSG00000196177" class="mim-hint" title="The Genome Aggregation Database (gnomAD), Broad Institute." target="_blank" onclick="ga('send', 'event', 'Outbound', 'gnomAD', 'gnomad.broadinstitute.org')">gnomAD</a></div>
+                                                    
+
+                                                    
+
+                                                    
+                                                        <div><a href="http://www.gwascentral.org/search?q=ACADSB" class="mim-hint" title="GWAS Central; summary level genotype-to-phenotype information from genetic association studies." target="_blank" onclick="ga('send', 'event', 'Outbound', 'GWAS Central', 'gwascentral.org')">GWAS Central&nbsp;</a></div>
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://www.hgmd.cf.ac.uk/ac/gene.php?gene=ACADSB" class="mim-hint" title="Human Gene Mutation Database; published mutations causing or associated with human inherited disease; disease-associated/functional polymorphisms." target="_blank" onclick="ga('send', 'event', 'Outbound', 'HGMD', 'hgmd.cf.ac.uk')">HGMD</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        <div><a href="http://www.hgvs.org/locus-specific-mutation-databases/?field_hgnc_gene_symbol_title=ACADSB" class="mim-hint" title="Human Genome Variation Society; maintains lists of and links to locus-specific mutation databases; guidelines for description of sequence variants." target="_blank" onclick="ga('send', 'event', 'Outbound', 'HGVS', 'www.hgvs.org')">HGVS</a></div>
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://lovd.i-med.ac.at/home.php?select_db=ACADSB" class="mim-hint" title="A gene-specific database of variation." target="_blank" onclick="ga('send', 'event', 'Outbound', 'Locus Specific DB', 'locus-specific-db.org')">Locus Specific DBs</a></div>
+                                                        
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://evs.gs.washington.edu/EVS/PopStatsServlet?searchBy=Gene+Hugo&target=ACADSB&upstreamSize=0&downstreamSize=0&x=0&y=0" class="mim-hint" title="National Heart, Lung, and Blood Institute Exome Variant Server." target="_blank" onclick="ga('send', 'event', 'Outbound', 'NHLBI EVS', 'evs.gs.washington.edu')">NHLBI EVS</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.pharmgkb.org/search/search.action?query=ENSG00000196177" class="mim-hint" title="Pharmacogenomics Knowledge Base; curated and annotated information regarding the effects of human genetic variations on drug response." target="_blank" onclick="ga('send', 'event', 'Outbound', 'PharmGKB', 'pharmgkb.org')">PharmGKB</a></div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="animalModels">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#animalModelsLinksFold" id="animalModelsLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <div style="display: table-row">
+                                                                <div id="animalModelsLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5; display: table-cell;">&#9658;</div>
+                                                                &nbsp;
+                                                                <div style="display: table-cell;">Animal Models</div>
+                                                            </div>
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="animalModelsLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+                                                        
+                                                            <div><a href="http://flybase.org/reports/FBgn0036824.html" class="mim-hint" title="A Database of Drosophila Genes and Genomes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'FlyBase', 'flybase.org')">FlyBase</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="https://www.mousephenotype.org/data/genes/MGI:1914135" class="mim-hint" title="International Mouse Phenotyping Consortium." target="_blank" onclick="ga('send', 'event', 'Outbound', 'IMPC', 'knockoutmouse.org')">IMPC</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.komp.org/ncbi.php?OMIM=600301" class="mim-hint" title="Knockout Mouse Project Repository; mouse embryonic stem cells containing null mutations in every gene in the mouse genome." target="_blank" onclick="ga('send', 'event', 'Outbound', 'KOMP', 'komp.org')">KOMP</a></div>
+                                                    
+
+                                                    
+                                                        <div><a href="http://marrvel.org/search/gene/ACADSB#HomologGenesPanel" class="mim-hint" title="Model organism Aggregated Resources for Rare Variant ExpLoration." target="_blank" onclick="ga('send', 'event', 'Outbound', 'MARRVEL', 'marrvel.org')">MARRVEL</a></div>
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://www.informatics.jax.org/accession/MGI:1914135" class="mim-hint" title="Mouse Genome Informatics; international database resource for the laboratory mouse, including integrated genetic, genomic, and biological data." target="_blank" onclick="ga('send', 'event', 'Outbound', 'MGI Mouse Gene', 'informatics.jax.org')">MGI Mouse Gene</a></div>
+                                                        
+                                                    
+
+                                                    
+
+                                                    
+                                                        <div><a href="https://www.ncbi.nlm.nih.gov/omim?Db=homologene&DbFrom=omim&Cmd=Link&LinkName=omim_homologene&LinkReadableName=HomoloGene&IdsFromResult=600301" class="mim-hint" title="A system for automated detection of homologs among the annotated genes of several completely sequenced eukaryotic genomes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'NCBI HomoloGene', 'ncbi.nlm.nih.gov')">NCBI HomoloGene</a></div>
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                        
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="https://zfin.org/cgi-bin/ZFIN_jump?record=ZDB-GENE-070410-109" class="mim-hint" title="The Zebrafish Model Organism Database." target="_blank" onclick="ga('send', 'event', 'Outbound', 'ZFin', 'zfin.org')">ZFin</a></div>
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="cellLines">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#cellLinesLinksFold" id="cellLinesLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <div style="display: table-row">
+                                                                <div id="cellLinesLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5; display: table-cell;">&#9658;</div>
+                                                                &nbsp;
+                                                                <div style="display: table-cell;">Cell Lines</div>
+                                                            </div>
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="cellLinesLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+
+                                                    
+                                                        <div><a href="https://catalog.coriell.org/Search?q=OmimNum:600301" class="definition" title="Coriell Cell Repositories; cell cultures and DNA derived from cell cultures." target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound', 'Coriell', 'ccr.coriell.org'])">Coriell</a></div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                    
+                                        <div class="panel panel-default" style="margin-top: 0px; border-radius: 0px">
+                                            <div class="panel-heading mim-panel-heading" role="tab" id="cellularPathways">
+                                                <span class="panel-title">
+                                                    <span class="small">
+                                                        <a href="#cellularPathwaysLinksFold" id="cellularPathwaysLinksToggle" class="collapsed singletonTriangleToggle" role="button" data-toggle="collapse" data-parent="#accordion">
+                                                            <div style="display: table-row">
+                                                                <div id="cellularPathwaysLinksToggleTriangle" class="small singletonTriangle" style="color: #337CB5; display: table-cell;">&#9658;</div>
+                                                                &nbsp;
+                                                                <div style="display: table-cell;">Cellular Pathways</div>
+                                                            </div>
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="cellularPathwaysLinksFold" class="panel-collapse collapse linksFold" role="tabpanel">
+                                                <div class="panel-body small mim-panel-body">
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://www.genome.jp/dbget-bin/get_linkdb?-t+pathway+hsa:36" class="mim-hint" title="Kyoto Encyclopedia of Genes and Genomes; diagrams of signaling pathways." target="_blank" onclick="ga('send', 'event', 'Outbound', 'KEGG', 'genome.jp')">KEGG</a></div>
+                                                        
+                                                    
+
+                                                    
+                                                        
+                                                            <div><a href="http://reactome.org/content/query?q=ACADSB&species=Homo+sapiens&types=Reaction&types=Pathway&cluster=true" class="definition" title="Protein-specific information in the context of relevant cellular pathways." target="_blank" onclick="ga('send','event', 'Outbound', 'Reactome', 'reactome.org')">Reactome</a></div>
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <span>
+                            <span class="mim-tip-bottom" qtip_title="<strong>Looking for this gene or this phenotype in other resources?</strong>" qtip_text="Select a related resource from the dropdown menu and click for a targeted link to information directly relevant.">
+                                &nbsp;
+                            </span>
+                        </span>
+
+                    
+
+
+                </div>
+
+
+                
+                <div class="col-lg-8 col-lg-pull-2 col-md-8 col-md-pull-2 col-sm-8 col-sm-pull-2 col-xs-12">
+
+                    <div>
+                        <a class="mim-anchor" id="title"></a>
+
+                        <div>
+                            <a class="mim-anchor" id="number"></a>
+                            
+                                <div class="text-right">
+                                    &nbsp;
+                                </div>
+                            
+                            <div>
+                                <span class="h3">
+                                    <span class="mim-font mim-hint" title="Gene description">
+                                        <span class="text-danger"><strong>*</strong></span>
+                                        600301
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+
+                        
+                            <div>
+                                <a class="mim-anchor" id="preferredTitle"></a>
+                                <h3>
+                                    <span class="mim-font">
+                                        ACYL-CoA DEHYDROGENASE, SHORT/BRANCHED CHAIN;  ACADSB
+                                        
+                                    </span>
+                                </h3>
+                            </div>
+                        
+                        <div>
+                            <br />
+                        </div>
+
+                        
+                            <div>
+                                <a class="mim-anchor" id="alternativeTitles"></a>
+                                <div class="mim-font">
+                                    <p>
+                                        <em>Alternative titles; symbols</em>
+                                    </p>
+                                </div>
+                                <div>
+                                    <h4>
+                                        <span class="mim-font">
+                                            SBCAD<br />
+2-METHYLBUTYRYL-CoA DEHYDROGENASE
+                                            
+                                        </span>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div>
+                                <br />
+                            </div>
+                        
+
+                        
+                    </div>
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="approvedGeneSymbols"></a>
+                            <p>
+                                <span class="mim-text-font">
+                                    <strong>
+                                        <em>
+                                            HGNC Approved Gene Symbol: <a href="https://www.genenames.org/cgi-bin/gene_symbol_report?match=ACADSB" class="mim-hint" title="HUGO Gene Nomenclature Committee." target="_blank" onclick="ga('send', 'event', 'Outbound', 'HGNC', 'genenames.org')">ACADSB</a>
+                                        </em>
+                                    </strong>
+                                </span>
+                            </p>
+                        </div>
+                    
+
+
+                    
+
+                        <div>
+                            <a class="mim-anchor" id="cytogeneticLocation"></a>
+                            <p>
+                                <span class="mim-text-font">
+                                    <strong><em>
+                                        Cytogenetic location: <a href="/geneMap/10/572?start=-3&limit=10&highlight=572">10q26.13</a>
+                                        &nbsp; &nbsp;
+                                        Genomic coordinates (GRCh38): <a href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&position=chr10:123008912-123058289&dgv=pack&knownGene=pack&omimGene=pack" class="mim-hint" title="UCSC Genome Browser; reference sequences and working draft assemblies for a large collection of genomes." target="_blank" onclick="ga('send', 'event', 'Outbound', 'UCSC Genome Browser', 'genome.ucsc.edu')">10:123,008,912-123,058,289</a> </span>
+                                    </em></strong>
+                                     <a href="https://www.ncbi.nlm.nih.gov/" target="_blank" class="small">(from NCBI)</a>
+                                </span>
+                            </p>
+                        </div>
+
+                        
+                            <div>
+                                <br />
+                            </div>
+                            <div>
+                                <a class="mim-anchor" id="geneMap"></a>
+                                <h4>
+                                    <span class="mim-font">
+                                        <strong>Gene-Phenotype Relationships</strong>
+                                    </span>
+                                </h4>
+
+                                <div>
+                                    <table class="table table-bordered table-condensed mim-table-padding small">
+                                        <thead>
+                                            <tr class="active">
+                                                <th>Location</th>
+                                                <th>Phenotype</th>
+                                                <th>Phenotype <br/> MIM number</th>
+                                                <th>Inheritance</th>
+                                                <th>Phenotype <br /> mapping key</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            
+                                                <tr>
+                                                    <td rowspan="1">
+                                                        <span class="mim-font">
+                                                            <a href="/geneMap/10/572?start=-3&limit=10&highlight=572">
+                                                                10q26.13
+                                                            </a>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                        
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    2-methylbutyrylglycinuria
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    
+                                                                        <a href="/entry/610006">610006</a>
+                                                                    
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    
+                                                                        <abbr class="mim-hint" title="Autosomal recessive">AR</abbr>
+                                                                    
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    
+                                                                        <abbr class="mim-hint" title="3 - The molecular basis of the disorder is known">3</abbr>
+                                                                    
+                                                                </span>
+                                                            </td>
+                                                        
+                                                    
+                                                </tr>
+
+                                                
+                                            
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                        
+
+                    
+
+
+                    
+                        
+                            
+                        
+
+                    
+
+
+
+                    <div>
+                        <br />
+                    </div>
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="text"></a>
+
+                            
+                            
+                                <h4>
+                            
+                                <span class="mim-font">
+                                    <span class="mim-tip-floating" qtip_title="<strong>Looking For More References?</strong>" qtip_text="Click the 'reference plus' icon &lt;span class='glyphicon glyphicon-plus-sign'&gt;&lt;/span&gt at the end of each OMIM text paragraph to see more references related to the content of the preceding paragraph.">
+                                        <strong>TEXT</strong>
+                                    </span>
+                                </span>
+                            </h4>
+
+
+                            
+                                
+                                    <div>
+                                        <a class="mim-anchor" id="description"></a>
+                                        <h4 href="#descriptionFold" id="descriptionToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                            
+                                            <span id="descriptionToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Description</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <div id="descriptionFold" class="collapse in ">
+                                        <span class="mim-text-font">
+                                            <p>The acyl-CoA dehydrogenases (ACADs) are a group of mitochondrial enzymes involved in the metabolism of fatty acids or branched-chain amino acids (<a href="#5" class="entry-reference"  title="Rozen, R., Vockley, J., Zhou, L., Milos, R., Willard, J., Fu, K., Vicanek, C., Low-Nang, L., Torban, E., Fournier, B. Isolation and expression of a cDNA encoding the precursor for a novel member (ACADSB) of the acyl-CoA dehydrogenase gene family. Genomics 24: 280-287, 1994. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/7698750&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;7698750&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0888-7543(84)71617-X&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="7698750">Rozen et al., 1994</a>).  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=7698750" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                        </span>
+                                        <div>
+                                            <br />
+                                        </div>
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <a class="mim-anchor" id="cloning"></a>
+                                        <h4 href="#cloningFold" id="cloningToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                            
+                                            <span id="cloningToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Cloning and Expression</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <div id="cloningFold" class="collapse in textToggleFold">
+                                        <span class="mim-text-font">
+                                            <p><a href="#5" class="entry-reference"  title="Rozen, R., Vockley, J., Zhou, L., Milos, R., Willard, J., Fu, K., Vicanek, C., Low-Nang, L., Torban, E., Fournier, B. Isolation and expression of a cDNA encoding the precursor for a novel member (ACADSB) of the acyl-CoA dehydrogenase gene family. Genomics 24: 280-287, 1994. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/7698750&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;7698750&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0888-7543(84)71617-X&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="7698750">Rozen et al. (1994)</a> isolated and characterized a cDNA encoding the precursor for a novel member of the acyl-CoA dehydrogenase gene family. The open reading frame of 1.3 kb encoded a precursor protein of 431 amino acids, which is processed in vitro to yield a mature protein of 399 amino acids. The cDNA had significant sequence similarity to other members of the family, with the greatest homology (38%) to short-chain acyl-CoA dehydrogenase (<a href="/entry/606885">606885</a>). The cDNA was expressed in eukaryotic (COS) and prokaryotic (E. coli) cells, producing a protein of the expected size with unique substrate specificities. The gene product had the greatest activity toward the short/branched chain acyl-CoA derivative, (S)-2-methylbutyryl-CoA, but also reacted significantly with other 2-methyl-branched chain substrates and with short/straight chain acyl-CoA. Because of the substrate specificity, they proposed the designation short/branched chain acyl-CoA dehydrogenase.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=7698750" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                        </span>
+                                        <div>
+                                            <br />
+                                        </div>
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <a class="mim-anchor" id="geneStructure"></a>
+                                        <h4 href="#geneStructureFold" id="geneStructureToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                            
+                                            <span id="geneStructureToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Gene Structure</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <div id="geneStructureFold" class="collapse in textToggleFold">
+                                        <span class="mim-text-font">
+                                            <p><a href="#1" class="entry-reference"  title="Andresen, B. S., Christensen, E., Corydon, T. J., Bross, P., Pilgaard, B., Wanders, R. J. A., Ruiter, J. P. N., Simonsen, H., Winter, V., Knudsen, I., Schroeder, L. D., Gregersen, N., Skovby, F. Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA dehydrogenase deficiency: identification of a new enzyme defect, resolution of its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in isoleucine and valine metabolism. Am. J. Hum. Genet. 67: 1095-1103, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/11013134&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;11013134&lt;/a&gt;, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/?term=11013134[PMID]&amp;report=imagesdocsum&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed Image&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;images&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(07)62939-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="11013134">Andresen et al. (2000)</a> determined that the ACADSB gene contains 11 exons.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=11013134" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                        </span>
+                                        <div>
+                                            <br />
+                                        </div>
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <a class="mim-anchor" id="mapping"></a>
+                                        <h4 href="#mappingFold" id="mappingToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                            
+                                            <span id="mappingToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Mapping</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <div id="mappingFold" class="collapse in textToggleFold">
+                                        <span class="mim-text-font">
+                                            <p><a href="#2" class="entry-reference"  title="Arden, K. C., Viars, C. S., Fu, K., Rozen, R. Localization of short/branched chain acyl-CoA dehydrogenase (ACADSB) to human chromosome 10. Genomics 25: 743-745, 1995. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/7759115&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;7759115&lt;/a&gt;]" pmid="7759115">Arden et al. (1995)</a> assigned the ACADSB gene to chromosome 10 by hybridization to human/rodent somatic cell hybrid DNAs and localized the gene to 10q25-q26 by fluorescence in situ hybridization.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=7759115" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                        </span>
+                                        <div>
+                                            <br />
+                                        </div>
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <a class="mim-anchor" id="molecularGenetics"></a>
+                                        <h4 href="#molecularGeneticsFold" id="molecularGeneticsToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                            
+                                            <span id="molecularGeneticsToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Molecular Genetics</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <div id="molecularGeneticsFold" class="collapse in textToggleFold">
+                                        <span class="mim-text-font">
+                                            <p>In a patient with isolated 2-methylbutyryl-CoA dehydrogenase deficiency (<a href="/entry/610006">610006</a>), <a href="#1" class="entry-reference"  title="Andresen, B. S., Christensen, E., Corydon, T. J., Bross, P., Pilgaard, B., Wanders, R. J. A., Ruiter, J. P. N., Simonsen, H., Winter, V., Knudsen, I., Schroeder, L. D., Gregersen, N., Skovby, F. Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA dehydrogenase deficiency: identification of a new enzyme defect, resolution of its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in isoleucine and valine metabolism. Am. J. Hum. Genet. 67: 1095-1103, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/11013134&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;11013134&lt;/a&gt;, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/?term=11013134[PMID]&amp;report=imagesdocsum&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed Image&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;images&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(07)62939-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="11013134">Andresen et al. (2000)</a> identified a homozygous mutation in the ACADSB gene (<a href="#0001">600301.0001</a>), resulting in a 100-bp deletion. Enzyme assay of the patient's fibroblasts, using 2-methylbutyryl-CoA as substrate, confirmed the defect. Sequence analysis of candidate acyl-CoA dehydrogenases revealed heterozygosity for the common short-chain ACAD A625 variant allele and no mutations in ACAD8 (<a href="/entry/604773">604773</a>). The study showed that ACAD8 is an isobutyryl-CoA dehydrogenase and that both wildtype ACAD8 and ACADSB proteins are imported into mitochondria and form tetramers.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=11013134" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p><p>In patients with isolated 2-methylbutyryl glycinuria due to ACADSB deficiency, <a href="#3" class="entry-reference"  title="Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism. Pediat. Res. 47: 830-833, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/10832746&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;10832746&lt;/a&gt;]" pmid="10832746">Gibson et al. (2000)</a> and <a href="#4" class="entry-reference"  title="Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping. Hum. Genet. 118: 680-690, 2006. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16317551&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;16317551&lt;/a&gt;] [&lt;a href=&quot;https://dx.doi.org/10.1007/s00439-005-0070-4&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="16317551">Madsen et al. (2006)</a> identified mutations in the ACADSB gene (<a href="#0002">600301.0002</a>; <a href="#0003">600301.0003</a>).  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=10832746,16317551" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p><p><a href="#6" class="entry-reference"  title="Sass, J. O., Ensenauer, R., Roschinger, W., Reich, H., Steuerwald, U., Schirrmacher, O., Engel, K., Haberle, J., Andresen, B. S., Megarbane, A., Lehnert, W., Zschocke, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular studies on a defect in isoleucine catabolism. Molec. Genet. Metab. 93: 30-35, 2008. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/17945527&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;17945527&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S1096-7192(07)00401-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="17945527">Sass et al. (2008)</a> reported 6 patients, including 2 sets of sibs, with 2-methylbutyryl-CoA dehydrogenase deficiency confirmed by genetic analysis (T148I, <a href="#0004">600301.0004</a> and E387K, <a href="#0005">600301.0005</a>). The patients were of Turkish or Lebanese Arab origin. None of the patients had clinical symptoms, and the 3 probands were all ascertained by newborn screening. For the 3 probands, development was normal at age 3, 6, and 6 years, respectively, even without treatment. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=17945527" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                        </span>
+                                        <div>
+                                            <br />
+                                        </div>
+                                    </div>
+                                
+                            
+
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="allelicVariants"></a>
+                            <h4>
+                                <span class="mim-font">
+                                    <span href="#allelicVariantsFold" id="allelicVariantsToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                        <span id="allelicVariantsToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                        <strong>ALLELIC VARIANTS (<a href="/help/faq#1_4"></strong>
+                                    </span>
+                                    <strong>5 Selected Examples</a>):</strong>
+                                </span>
+                            </h4>
+                            <div>
+                                <p />
+                            </div>
+
+                            <div id="allelicVariantsFold" class="collapse in textToggleFold">
+                                <div>
+                                    <a href="/allelicVariant/600301" class="btn btn-default" role="button"> Table View </a>
+                                    
+                                        &nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/clinvar?term=600301[MIM]" class="btn btn-default mim-hint" role="button" title="ClinVar aggregates information about sequence variation and its relationship to human health." target="_blank" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">ClinVar</a>
+                                    
+                                </div>
+                                <div>
+                                    <p />
+                                </div>
+
+                                
+                                    <div>
+                                        
+                                            <div>
+                                                <a class="mim-anchor" id="0001"></a>
+                                                <h4>
+                                                    <span class="mim-font ">
+                                                        <strong>.0001</strong>&nbsp;
+                                                        <span class="lookup">
+                                                            <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                        </span>
+                                                    </span>
+                                                </h4>
+                                            </div>
+
+                                            
+
+                                            
+                                                <div>
+                                                    <span class="mim-text-font">
+                                                        
+                                                            ACADSB, 1228G-A, EX10DEL
+                                                        
+                                                        &nbsp;&nbsp;
+                                                        <div class="btn-group" role="group">
+                                                            
+                                                                <a href="http://www.ensembl.org/Homo_sapiens/Variation/Summary?v=rs387906409;toggle_HGVS_names=open" class="btn btn-default btn-xs" target="_blank" onclick="ga('send', 'event', 'Outbound', 'dbSNP', 'ensembl.org')">dbSNP:rs387906409</a>
+                                                            
+                                                            
+                                                                <a href="http://exac.broadinstitute.org/awesome?query=rs387906409" class="btn btn-default btn-xs" target="_blank" onclick="ga('send', 'event', 'Outbound', 'dbSNP', 'exac.broadinstitute.org')">ExAC:rs387906409</a>
+                                                            
+                                                            
+                                                                <a href="https://www.ncbi.nlm.nih.gov/clinvar?term=RCV000009777" target="_blank" class="btn btn-default btn-xs mim-hint" title="RCV000009777" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">RCV000009777</a>
+                                                            
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            
+
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    <p><a href="#1" class="entry-reference"  title="Andresen, B. S., Christensen, E., Corydon, T. J., Bross, P., Pilgaard, B., Wanders, R. J. A., Ruiter, J. P. N., Simonsen, H., Winter, V., Knudsen, I., Schroeder, L. D., Gregersen, N., Skovby, F. Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA dehydrogenase deficiency: identification of a new enzyme defect, resolution of its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in isoleucine and valine metabolism. Am. J. Hum. Genet. 67: 1095-1103, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/11013134&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;11013134&lt;/a&gt;, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/?term=11013134[PMID]&amp;report=imagesdocsum&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed Image&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;images&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(07)62939-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="11013134">Andresen et al. (2000)</a> identified homozygosity for a 1228G-A mutation in the ACADSB gene, causing skipping of exon 10, in a patient with methylbutyryl glycinuria (<a href="/entry/610006">610006</a>). The patient was a 3-year-old boy, the son of first-cousin parents from Pakistan. During his second year of life he became increasingly floppy, with retarded motor development, generalized muscular atrophy, and strabismus. At age 3 years he was able to walk with support. Although both parents and 2 sibs were asymptomatic, the mother was shown also to excrete 2-methylbutyryl glycine.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=11013134" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                                </span>
+                                            </div>
+
+                                        
+
+                                        <div>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+                                    <div>
+                                        
+                                            <div>
+                                                <a class="mim-anchor" id="0002"></a>
+                                                <h4>
+                                                    <span class="mim-font ">
+                                                        <strong>.0002</strong>&nbsp;
+                                                        <span class="lookup">
+                                                            <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                        </span>
+                                                    </span>
+                                                </h4>
+                                            </div>
+
+                                            
+
+                                            
+                                                <div>
+                                                    <span class="mim-text-font">
+                                                        
+                                                            ACADSB, LEU222PHE
+                                                        
+                                                        &nbsp;&nbsp;
+                                                        <div class="btn-group" role="group">
+                                                            
+                                                                <a href="http://www.ensembl.org/Homo_sapiens/Variation/Summary?v=rs137852649;toggle_HGVS_names=open" class="btn btn-default btn-xs" target="_blank" onclick="ga('send', 'event', 'Outbound', 'dbSNP', 'ensembl.org')">dbSNP:rs137852649</a>
+                                                            
+                                                            
+                                                            
+                                                                <a href="https://www.ncbi.nlm.nih.gov/clinvar?term=RCV000009778" target="_blank" class="btn btn-default btn-xs mim-hint" title="RCV000009778" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">RCV000009778</a>
+                                                            
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            
+
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    <p>In a male infant born of a northern European mother and Eritrean father, <a href="#3" class="entry-reference"  title="Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism. Pediat. Res. 47: 830-833, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/10832746&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;10832746&lt;/a&gt;]" pmid="10832746">Gibson et al. (2000)</a> observed an isolated increase in 2-methylbutyryl glycine and 2-methylbutyryl carnitine in blood and urine (<a href="/entry/610006">610006</a>). An isolated block in 2-methylbutyryl-CoA dehydrogenase was demonstrated in cultured fibroblasts. The DNA sequence of ACADSB contained a heterozygous 768C-T substitution causing a leu222-to-phe (L222F) change in the protein. Although pregnancy and birth were normal, the infant was readmitted at age 3 days for poor feeding, lethargy, hypothermia, hypoglycemia, and episodes of apnea. EEG and MRI of the brain showed changes. A female fetus in a subsequent pregnancy was found to be affected.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=10832746" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p><p><a href="#4" class="entry-reference"  title="Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping. Hum. Genet. 118: 680-690, 2006. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16317551&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;16317551&lt;/a&gt;] [&lt;a href=&quot;https://dx.doi.org/10.1007/s00439-005-0070-4&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="16317551">Madsen et al. (2006)</a> found that the 2 sibs reported by <a href="#3" class="entry-reference"  title="Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism. Pediat. Res. 47: 830-833, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/10832746&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;10832746&lt;/a&gt;]" pmid="10832746">Gibson et al. (2000)</a> were compound heterozygous for the L222F mutation and a splice site mutation (<a href="#0003">600301.0003</a>). <a href="#4" class="entry-reference"  title="Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping. Hum. Genet. 118: 680-690, 2006. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16317551&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;16317551&lt;/a&gt;] [&lt;a href=&quot;https://dx.doi.org/10.1007/s00439-005-0070-4&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="16317551">Madsen et al. (2006)</a> reported that the L222F substitution resulted from a 763C-T transition.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=10832746,16317551" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                                </span>
+                                            </div>
+
+                                        
+
+                                        <div>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+                                    <div>
+                                        
+                                            <div>
+                                                <a class="mim-anchor" id="0003"></a>
+                                                <h4>
+                                                    <span class="mim-font ">
+                                                        <strong>.0003</strong>&nbsp;
+                                                        <span class="lookup">
+                                                            <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                        </span>
+                                                    </span>
+                                                </h4>
+                                            </div>
+
+                                            
+
+                                            
+                                                <div>
+                                                    <span class="mim-text-font">
+                                                        
+                                                            ACADSB, IVS3DS, A-G, +3
+                                                        
+                                                        &nbsp;&nbsp;
+                                                        <div class="btn-group" role="group">
+                                                            
+                                                            
+                                                            
+                                                                <a href="https://www.ncbi.nlm.nih.gov/clinvar?term=RCV000009779" target="_blank" class="btn btn-default btn-xs mim-hint" title="RCV000009779" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">RCV000009779</a>
+                                                            
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            
+
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    <p>In a boy with 2-methylbutyryl glycinuria (<a href="/entry/610006">610006</a>), whose parents were from Somalia, <a href="#4" class="entry-reference"  title="Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping. Hum. Genet. 118: 680-690, 2006. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16317551&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;16317551&lt;/a&gt;] [&lt;a href=&quot;https://dx.doi.org/10.1007/s00439-005-0070-4&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="16317551">Madsen et al. (2006)</a> identified a homozygous A-to-G transition in intron 3 of the ACADSB gene, resulting in the skipping of exon 3 as confirmed by mRNA analysis. The resultant mRNA likely leads to nonsense-mediated decay, but any residual protein was predicted to lack vital enzyme activity. <a href="#4" class="entry-reference"  title="Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S. Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping. Hum. Genet. 118: 680-690, 2006. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16317551&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;16317551&lt;/a&gt;] [&lt;a href=&quot;https://dx.doi.org/10.1007/s00439-005-0070-4&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="16317551">Madsen et al. (2006)</a> also identified the splice site mutation in 2 affected sibs previously reported by <a href="#3" class="entry-reference"  title="Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism. Pediat. Res. 47: 830-833, 2000. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/10832746&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;10832746&lt;/a&gt;]" pmid="10832746">Gibson et al. (2000)</a>; see <a href="#0002">600301.0002</a>.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=10832746,16317551" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                                </span>
+                                            </div>
+
+                                        
+
+                                        <div>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+                                    <div>
+                                        
+                                            <div>
+                                                <a class="mim-anchor" id="0004"></a>
+                                                <h4>
+                                                    <span class="mim-font ">
+                                                        <strong>.0004</strong>&nbsp;
+                                                        <span class="lookup">
+                                                            <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                        </span>
+                                                    </span>
+                                                </h4>
+                                            </div>
+
+                                            
+
+                                            
+                                                <div>
+                                                    <span class="mim-text-font">
+                                                        
+                                                            ACADSB, THR148ILE
+                                                        
+                                                        &nbsp;&nbsp;
+                                                        <div class="btn-group" role="group">
+                                                            
+                                                                <a href="http://www.ensembl.org/Homo_sapiens/Variation/Summary?v=rs58639322;toggle_HGVS_names=open" class="btn btn-default btn-xs" target="_blank" onclick="ga('send', 'event', 'Outbound', 'dbSNP', 'ensembl.org')">dbSNP:rs58639322</a>
+                                                            
+                                                            
+                                                            
+                                                                <a href="https://www.ncbi.nlm.nih.gov/clinvar?term=RCV000389934 OR RCV000009780" target="_blank" class="btn btn-default btn-xs mim-hint" title="RCV000389934, RCV000009780" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">RCV000389934...</a>
+                                                            
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            
+
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    <p>In 2 brothers, born of a consanguineous Arab couple from Lebanon, with 2-methylbutyryl-CoA dehydrogenase deficiency (<a href="/entry/610006">610006</a>), <a href="#6" class="entry-reference"  title="Sass, J. O., Ensenauer, R., Roschinger, W., Reich, H., Steuerwald, U., Schirrmacher, O., Engel, K., Haberle, J., Andresen, B. S., Megarbane, A., Lehnert, W., Zschocke, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular studies on a defect in isoleucine catabolism. Molec. Genet. Metab. 93: 30-35, 2008. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/17945527&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;17945527&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S1096-7192(07)00401-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="17945527">Sass et al. (2008)</a> identified compound heterozygosity for mutation in the ACADSB gene: a 443C-T transition in exon 4, resulting in a thr148-to-ile (T148I) substitution, and the E387K mutation (<a href="#0005">600301.0005</a>). One was diagnosed via newborn screening, and the other was diagnosed at age 3 years after his brother's diagnosis. Neither patient showed any clinical abnormalities, and both had normal development, but were lost to follow-up when the proband was 10 months old. The authors also identified homozygosity for the T148I mutation in 2 sibs from a consanguineous Turkish family. Both boys had normal development at age 6 and 7 years, respectively. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=17945527" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                                </span>
+                                            </div>
+
+                                        
+
+                                        <div>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+                                    <div>
+                                        
+                                            <div>
+                                                <a class="mim-anchor" id="0005"></a>
+                                                <h4>
+                                                    <span class="mim-font ">
+                                                        <strong>.0005</strong>&nbsp;
+                                                        <span class="lookup">
+                                                            <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                        </span>
+                                                    </span>
+                                                </h4>
+                                            </div>
+
+                                            
+
+                                            
+                                                <div>
+                                                    <span class="mim-text-font">
+                                                        
+                                                            ACADSB, GLU387LYS
+                                                        
+                                                        &nbsp;&nbsp;
+                                                        <div class="btn-group" role="group">
+                                                            
+                                                                <a href="http://www.ensembl.org/Homo_sapiens/Variation/Summary?v=rs188094280;toggle_HGVS_names=open" class="btn btn-default btn-xs" target="_blank" onclick="ga('send', 'event', 'Outbound', 'dbSNP', 'ensembl.org')">dbSNP:rs188094280</a>
+                                                            
+                                                            
+                                                            
+                                                                <a href="https://www.ncbi.nlm.nih.gov/clinvar?term=RCV000009781" target="_blank" class="btn btn-default btn-xs mim-hint" title="RCV000009781" onclick="ga('send', 'event', 'Outbound', 'ClinVar', 'ncbi.nlm.nih.gov')">RCV000009781</a>
+                                                            
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            
+
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    <p>In a Turkish girl with 2-methylbutyryl-CoA dehydrogenase deficiency (<a href="/entry/610006">610006</a>), <a href="#6" class="entry-reference"  title="Sass, J. O., Ensenauer, R., Roschinger, W., Reich, H., Steuerwald, U., Schirrmacher, O., Engel, K., Haberle, J., Andresen, B. S., Megarbane, A., Lehnert, W., Zschocke, J. 2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular studies on a defect in isoleucine catabolism. Molec. Genet. Metab. 93: 30-35, 2008. [PubMed: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/17945527&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;PubMed&#39;, &#39;ncbi.nlm.nih.gov&#39;)&quot;&gt;17945527&lt;/a&gt;] [&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S1096-7192(07)00401-5&quot; target=&quot;_blank&quot; onclick=&quot;ga(&#39;send&#39;, &#39;event&#39;, &#39;Outbound&#39;, &#39;Publisher&#39;)&quot;&gt;Full Text&lt;/a&gt;]" pmid="17945527">Sass et al. (2008)</a> identified a homozygous 1159G-A transition in exon 10 of the ACADSB gene, resulting in a glu387-to-lys (E387K) substitution. She showed normal development at age 3 years. The E387K mutation was found in 2 of 146 Turkish control chromosomes and in 2 of 96 Lebanese control chromosomes, yielding an allelic frequency of about 2% in these populations. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=17945527" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')"><span class="glyphicon glyphicon-plus-sign mim-hint" title="Click this 'reference-plus' icon to see articles related to this paragraph in PubMed."></span></a></p>
+                                                </span>
+                                            </div>
+
+                                        
+
+                                        <div>
+                                            <br />
+                                        </div>
+
+                                    </div>
+
+                                
+
+                            </div>
+
+                        </div>
+
+                    
+
+
+
+                    
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="references"></a>
+                            <h4 href="#referencesFold" id="referencesToggle" class="triangleToggle" style="cursor: pointer;" data-toggle="collapse">
+                                <span class="mim-font">
+                                    <span id="referencesToggleTriangle" class="small textToggleTriangle">&#9660;</span>
+                                    <strong>REFERENCES</strong>
+                                </span>
+                            </h4>
+                            <div>
+                                <p />
+                            </div>
+
+                            <div id="referencesFold" class="collapse in textToggleFold">
+                                <ol>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="1"></a>
+                                            <a class="mim-anchor" id="Andresen2000"></a>
+                                            <p class="mim-text-font ">
+                                                Andresen, B. S., Christensen, E., Corydon, T. J., Bross, P., Pilgaard, B., Wanders, R. J. A., Ruiter, J. P. N., Simonsen, H., Winter, V., Knudsen, I., Schroeder, L. D., Gregersen, N., Skovby, F.
+                                                <strong>Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA dehydrogenase deficiency: identification of a new enzyme defect, resolution of its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in isoleucine and valine metabolism.</strong>
+                                                Am. J. Hum. Genet. 67: 1095-1103, 2000.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/11013134" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">11013134</a>,  <a href="https://www.ncbi.nlm.nih.gov/pmc/?term=11013134[PMID]&report=imagesdocsum" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Image', 'ncbi.nlm.nih.gov')">images</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=11013134" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                        [<a href="https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(07)62939-5" target="_blank">Full Text</a>]
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="2"></a>
+                                            <a class="mim-anchor" id="Arden1995"></a>
+                                            <p class="mim-text-font ">
+                                                Arden, K. C., Viars, C. S., Fu, K., Rozen, R.
+                                                <strong>Localization of short/branched chain acyl-CoA dehydrogenase (ACADSB) to human chromosome 10.</strong>
+                                                Genomics 25: 743-745, 1995.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/7759115" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">7759115</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=7759115" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="3"></a>
+                                            <a class="mim-anchor" id="Gibson2000"></a>
+                                            <p class="mim-text-font ">
+                                                Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J.
+                                                <strong>2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism.</strong>
+                                                Pediat. Res. 47: 830-833, 2000.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/10832746" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">10832746</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=10832746" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="4"></a>
+                                            <a class="mim-anchor" id="Madsen2006"></a>
+                                            <p class="mim-text-font ">
+                                                Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S.
+                                                <strong>Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping.</strong>
+                                                Hum. Genet. 118: 680-690, 2006.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/16317551" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">16317551</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=16317551" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                        [<a href="https://dx.doi.org/10.1007/s00439-005-0070-4" target="_blank">Full Text</a>]
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="5"></a>
+                                            <a class="mim-anchor" id="Rozen1994"></a>
+                                            <p class="mim-text-font ">
+                                                Rozen, R., Vockley, J., Zhou, L., Milos, R., Willard, J., Fu, K., Vicanek, C., Low-Nang, L., Torban, E., Fournier, B.
+                                                <strong>Isolation and expression of a cDNA encoding the precursor for a novel member (ACADSB) of the acyl-CoA dehydrogenase gene family.</strong>
+                                                Genomics 24: 280-287, 1994.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/7698750" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">7698750</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=7698750" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                        [<a href="https://linkinghub.elsevier.com/retrieve/pii/S0888-7543(84)71617-X" target="_blank">Full Text</a>]
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="mim-anchor" id="6"></a>
+                                            <a class="mim-anchor" id="Sass2008"></a>
+                                            <p class="mim-text-font ">
+                                                Sass, J. O., Ensenauer, R., Roschinger, W., Reich, H., Steuerwald, U., Schirrmacher, O., Engel, K., Haberle, J., Andresen, B. S., Megarbane, A., Lehnert, W., Zschocke, J.
+                                                <strong>2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular studies on a defect in isoleucine catabolism.</strong>
+                                                Molec. Genet. Metab. 93: 30-35, 2008.
+                                                
+                                                    
+                                                        [PubMed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/17945527" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed', 'ncbi.nlm.nih.gov')">17945527</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=link&linkname=pubmed_pubmed&uid=17945527" target="_blank" onclick="ga('send', 'event', 'Outbound', 'PubMed Related', 'ncbi.nlm.nih.gov')">related citations</a>]
+                                                    
+                                                    
+                                                        [<a href="https://linkinghub.elsevier.com/retrieve/pii/S1096-7192(07)00401-5" target="_blank">Full Text</a>]
+                                                    
+                                                
+                                            </p>
+                                        </li>
+                                    
+                                </ol>
+
+                                <div>
+                                    <br />
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="contributors"></a>
+                            
+                                <div class="row">
+                                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                        <span class="mim-text-font">
+                                            <a href="#collapseContributors" role="button" data-toggle="collapse"> Contributors: </a>
+                                        </span>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        <span class="mim-text-font">
+                                            Cassandra L. Kniffin - updated : 3/19/2010
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row collapse" id="collapseContributors">
+                                    <div class="col-lg-offset-2 col-md-offset-4 col-sm-offset-4 col-xs-offset-2 col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        <span class="mim-text-font">
+                                            Cassandra L. Kniffin - updated : 3/27/2006<br />Victor A. McKusick - updated : 12/19/2000<br />Victor A. McKusick - updated : 12/14/2000
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="creationDate"></a>
+                            <div class="row">
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                    <span class="mim-text-font">
+                                        Creation Date:
+                                    </span>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <span class="mim-text-font">
+                                        Victor A. McKusick : 1/9/1995
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <a class="mim-anchor" id="editHistory"></a>
+                            
+                                <div class="row">
+                                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                        <span class="mim-text-font">
+                                            <a href="#collapseEditHistory" role="button" data-toggle="collapse"> Edit History: </a>
+                                        </span>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        <span class="mim-text-font">
+                                            carol : 02/11/2011
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="row collapse" id="collapseEditHistory">
+                                    <div class="col-lg-offset-2 col-md-offset-2 col-sm-offset-4 col-xs-offset-4 col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        <span class="mim-text-font">
+                                            wwang : 3/29/2010<br />ckniffin : 3/19/2010<br />carol : 4/4/2006<br />ckniffin : 3/27/2006<br />alopez : 3/17/2004<br />carol : 4/30/2002<br />carol : 12/19/2000<br />terry : 12/19/2000<br />carol : 12/14/2000<br />terry : 12/14/2000<br />mark : 4/19/1995<br />carol : 1/9/1995
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                        </div>
+                    
+
+                </div>
+
+            
+
+        </div>
+
+    </div>
+
+
+
+
+    <div class="container visible-print-block">
+
+        <div class="row">
+
+            
+
+                <div class="col-md-8 col-md-offset-1">
+
+                    <div>
+
+                        <div>
+                            <h3>
+                                <span class="mim-font">
+                                    <strong>*</strong> 600301
+                                </span>
+                            </h3>
+                        </div>
+
+                        
+                            <div>
+                                <h3>
+                                    <span class="mim-font">
+                                        ACYL-CoA DEHYDROGENASE, SHORT/BRANCHED CHAIN;  ACADSB
+                                    </span>
+                                </h3>
+                            </div>
+                        
+                        <div>
+                            <br />
+                        </div>
+
+                        
+                            <div>
+                                <div class="mim-font">
+                                    <p>
+                                        <em>Alternative titles; symbols</em>
+                                    </p>
+                                </div>
+                                <div>
+                                    <h4>
+                                        <span class="mim-font">
+                                            SBCAD<br />
+2-METHYLBUTYRYL-CoA DEHYDROGENASE
+                                        </span>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div>
+                                <br />
+                            </div>
+                        
+
+                        
+                    </div>
+
+                    
+                        <div>
+                            <p>
+                                <span class="mim-text-font">
+                                    <strong>
+                                        <em>
+                                            HGNC Approved Gene Symbol: ACADSB
+                                        </em>
+                                    </strong>
+                                </span>
+                            </p>
+                        </div>
+                    
+
+
+                    
+
+
+                    
+
+                        <div>
+                            <p>
+                                <span class="mim-text-font">
+                                    <strong>
+                                        <em>
+                                            Cytogenetic location: 10q26.13
+                                            &nbsp; &nbsp;
+                                            Genomic coordinates (GRCh38): 10:123,008,912-123,058,289 </span>
+                                        </em>
+                                    </strong>
+                                     <span class="small">(from NCBI)</span>
+                                </span>
+                            </p>
+                        </div>
+
+                        
+                            <div>
+                                <br />
+                            </div>
+                            <div>
+                                <h4>
+                                    <span class="mim-font">
+                                        <strong>Gene-Phenotype Relationships</strong>
+                                    </span>
+                                </h4>
+
+                                <div>
+                                    <table class="table table-bordered table-condensed mim-table-padding small">
+                                        <thead>
+                                            <tr class="active">
+                                                <th>Location</th>
+                                                <th>Phenotype</th>
+                                                <th>Phenotype <br/> MIM number</th>
+                                                <th>Inheritance</th>
+                                                <th>Phenotype <br /> mapping key</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            
+                                                <tr>
+                                                    <td rowspan="1">
+                                                        <span class="mim-font">
+                                                            10q26.13
+                                                        </span>
+                                                    </td>
+                                                    
+                                                        
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    2-methylbutyrylglycinuria
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    610006
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    Autosomal recessive
+                                                                </span>
+                                                            </td>
+                                                            <td>
+                                                                <span class="mim-font">
+                                                                    3
+                                                                </span>
+                                                            </td>
+                                                        
+                                                    
+                                                </tr>
+
+                                                
+                                            
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        
+
+                    
+
+
+                    <div>
+                        <br />
+                    </div>
+
+
+                    
+                        <div>
+
+                            <h4>
+                                <span class="mim-font">
+                                    <strong>TEXT</strong>
+                                </span>
+                            </h4>
+
+
+                            
+                                
+                                    <div>
+                                        <h4>
+                                            
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Description</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <span class="mim-text-font">
+                                        <p>The acyl-CoA dehydrogenases (ACADs) are a group of mitochondrial enzymes involved in the metabolism of fatty acids or branched-chain amino acids (Rozen et al., 1994).  </p>
+                                    </span>
+                                    <div>
+                                        <br />
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <h4>
+                                            
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Cloning and Expression</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <span class="mim-text-font">
+                                        <p>Rozen et al. (1994) isolated and characterized a cDNA encoding the precursor for a novel member of the acyl-CoA dehydrogenase gene family. The open reading frame of 1.3 kb encoded a precursor protein of 431 amino acids, which is processed in vitro to yield a mature protein of 399 amino acids. The cDNA had significant sequence similarity to other members of the family, with the greatest homology (38%) to short-chain acyl-CoA dehydrogenase (606885). The cDNA was expressed in eukaryotic (COS) and prokaryotic (E. coli) cells, producing a protein of the expected size with unique substrate specificities. The gene product had the greatest activity toward the short/branched chain acyl-CoA derivative, (S)-2-methylbutyryl-CoA, but also reacted significantly with other 2-methyl-branched chain substrates and with short/straight chain acyl-CoA. Because of the substrate specificity, they proposed the designation short/branched chain acyl-CoA dehydrogenase.  </p>
+                                    </span>
+                                    <div>
+                                        <br />
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <h4>
+                                            
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Gene Structure</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <span class="mim-text-font">
+                                        <p>Andresen et al. (2000) determined that the ACADSB gene contains 11 exons.  </p>
+                                    </span>
+                                    <div>
+                                        <br />
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <h4>
+                                            
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Mapping</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <span class="mim-text-font">
+                                        <p>Arden et al. (1995) assigned the ACADSB gene to chromosome 10 by hybridization to human/rodent somatic cell hybrid DNAs and localized the gene to 10q25-q26 by fluorescence in situ hybridization.  </p>
+                                    </span>
+                                    <div>
+                                        <br />
+                                    </div>
+                                
+                            
+                                
+                                    <div>
+                                        <h4>
+                                            
+                                            <span class="mim-font">
+                                                
+                                                    <strong>Molecular Genetics</strong>
+                                                
+                                            </span>
+                                        </h4>
+                                    </div>
+                                
+
+                                
+                                    <span class="mim-text-font">
+                                        <p>In a patient with isolated 2-methylbutyryl-CoA dehydrogenase deficiency (610006), Andresen et al. (2000) identified a homozygous mutation in the ACADSB gene (600301.0001), resulting in a 100-bp deletion. Enzyme assay of the patient's fibroblasts, using 2-methylbutyryl-CoA as substrate, confirmed the defect. Sequence analysis of candidate acyl-CoA dehydrogenases revealed heterozygosity for the common short-chain ACAD A625 variant allele and no mutations in ACAD8 (604773). The study showed that ACAD8 is an isobutyryl-CoA dehydrogenase and that both wildtype ACAD8 and ACADSB proteins are imported into mitochondria and form tetramers.  </p><p>In patients with isolated 2-methylbutyryl glycinuria due to ACADSB deficiency, Gibson et al. (2000) and Madsen et al. (2006) identified mutations in the ACADSB gene (600301.0002; 600301.0003).  </p><p>Sass et al. (2008) reported 6 patients, including 2 sets of sibs, with 2-methylbutyryl-CoA dehydrogenase deficiency confirmed by genetic analysis (T148I, 600301.0004 and E387K, 600301.0005). The patients were of Turkish or Lebanese Arab origin. None of the patients had clinical symptoms, and the 3 probands were all ascertained by newborn screening. For the 3 probands, development was normal at age 3, 6, and 6 years, respectively, even without treatment. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  </p>
+                                    </span>
+                                    <div>
+                                        <br />
+                                    </div>
+                                
+                            
+
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <h4>
+                                <span class="mim-font">
+                                        <strong>ALLELIC VARIANTS</strong>
+                                    </span>
+                                    <strong>5 Selected Examples</a>):</strong>
+                                </span>
+                            </h4>
+                            <div>
+                                <p />
+                            </div>
+
+                            
+                                <div>
+                                    
+                                        <div>
+                                            <h4>
+                                                <span class="mim-font ">
+                                                    <strong>.0001</strong>&nbsp;
+                                                    <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                </span>
+                                            </h4>
+                                        </div>
+
+                                        
+
+                                        
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    
+                                                        ACADSB, 1228G-A, EX10DEL
+                                                    
+                                                    &nbsp;&nbsp;
+                                                    rs387906409
+                                                </span>
+                                            </div>
+                                        
+
+                                        <div>
+                                            <span class="mim-text-font">
+                                                <p>Andresen et al. (2000) identified homozygosity for a 1228G-A mutation in the ACADSB gene, causing skipping of exon 10, in a patient with methylbutyryl glycinuria (610006). The patient was a 3-year-old boy, the son of first-cousin parents from Pakistan. During his second year of life he became increasingly floppy, with retarded motor development, generalized muscular atrophy, and strabismus. At age 3 years he was able to walk with support. Although both parents and 2 sibs were asymptomatic, the mother was shown also to excrete 2-methylbutyryl glycine.  </p>
+                                            </span>
+                                        </div>
+
+                                    
+
+                                    <div>
+                                        <br />
+                                    </div>
+
+                                </div>
+
+                            
+                                <div>
+                                    
+                                        <div>
+                                            <h4>
+                                                <span class="mim-font ">
+                                                    <strong>.0002</strong>&nbsp;
+                                                    <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                </span>
+                                            </h4>
+                                        </div>
+
+                                        
+
+                                        
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    
+                                                        ACADSB, LEU222PHE
+                                                    
+                                                    &nbsp;&nbsp;
+                                                    rs137852649
+                                                </span>
+                                            </div>
+                                        
+
+                                        <div>
+                                            <span class="mim-text-font">
+                                                <p>In a male infant born of a northern European mother and Eritrean father, Gibson et al. (2000) observed an isolated increase in 2-methylbutyryl glycine and 2-methylbutyryl carnitine in blood and urine (610006). An isolated block in 2-methylbutyryl-CoA dehydrogenase was demonstrated in cultured fibroblasts. The DNA sequence of ACADSB contained a heterozygous 768C-T substitution causing a leu222-to-phe (L222F) change in the protein. Although pregnancy and birth were normal, the infant was readmitted at age 3 days for poor feeding, lethargy, hypothermia, hypoglycemia, and episodes of apnea. EEG and MRI of the brain showed changes. A female fetus in a subsequent pregnancy was found to be affected.  </p><p>Madsen et al. (2006) found that the 2 sibs reported by Gibson et al. (2000) were compound heterozygous for the L222F mutation and a splice site mutation (600301.0003). Madsen et al. (2006) reported that the L222F substitution resulted from a 763C-T transition.  </p>
+                                            </span>
+                                        </div>
+
+                                    
+
+                                    <div>
+                                        <br />
+                                    </div>
+
+                                </div>
+
+                            
+                                <div>
+                                    
+                                        <div>
+                                            <h4>
+                                                <span class="mim-font ">
+                                                    <strong>.0003</strong>&nbsp;
+                                                    <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                </span>
+                                            </h4>
+                                        </div>
+
+                                        
+
+                                        
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    
+                                                        ACADSB, IVS3DS, A-G, +3
+                                                    
+                                                    &nbsp;&nbsp;
+                                                    
+                                                </span>
+                                            </div>
+                                        
+
+                                        <div>
+                                            <span class="mim-text-font">
+                                                <p>In a boy with 2-methylbutyryl glycinuria (610006), whose parents were from Somalia, Madsen et al. (2006) identified a homozygous A-to-G transition in intron 3 of the ACADSB gene, resulting in the skipping of exon 3 as confirmed by mRNA analysis. The resultant mRNA likely leads to nonsense-mediated decay, but any residual protein was predicted to lack vital enzyme activity. Madsen et al. (2006) also identified the splice site mutation in 2 affected sibs previously reported by Gibson et al. (2000); see 600301.0002.  </p>
+                                            </span>
+                                        </div>
+
+                                    
+
+                                    <div>
+                                        <br />
+                                    </div>
+
+                                </div>
+
+                            
+                                <div>
+                                    
+                                        <div>
+                                            <h4>
+                                                <span class="mim-font ">
+                                                    <strong>.0004</strong>&nbsp;
+                                                    <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                </span>
+                                            </h4>
+                                        </div>
+
+                                        
+
+                                        
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    
+                                                        ACADSB, THR148ILE
+                                                    
+                                                    &nbsp;&nbsp;
+                                                    rs58639322
+                                                </span>
+                                            </div>
+                                        
+
+                                        <div>
+                                            <span class="mim-text-font">
+                                                <p>In 2 brothers, born of a consanguineous Arab couple from Lebanon, with 2-methylbutyryl-CoA dehydrogenase deficiency (610006), Sass et al. (2008) identified compound heterozygosity for mutation in the ACADSB gene: a 443C-T transition in exon 4, resulting in a thr148-to-ile (T148I) substitution, and the E387K mutation (600301.0005). One was diagnosed via newborn screening, and the other was diagnosed at age 3 years after his brother's diagnosis. Neither patient showed any clinical abnormalities, and both had normal development, but were lost to follow-up when the proband was 10 months old. The authors also identified homozygosity for the T148I mutation in 2 sibs from a consanguineous Turkish family. Both boys had normal development at age 6 and 7 years, respectively. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  </p>
+                                            </span>
+                                        </div>
+
+                                    
+
+                                    <div>
+                                        <br />
+                                    </div>
+
+                                </div>
+
+                            
+                                <div>
+                                    
+                                        <div>
+                                            <h4>
+                                                <span class="mim-font ">
+                                                    <strong>.0005</strong>&nbsp;
+                                                    <strong>2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY</strong>
+                                                </span>
+                                            </h4>
+                                        </div>
+
+                                        
+
+                                        
+                                            <div>
+                                                <span class="mim-text-font">
+                                                    
+                                                        ACADSB, GLU387LYS
+                                                    
+                                                    &nbsp;&nbsp;
+                                                    rs188094280
+                                                </span>
+                                            </div>
+                                        
+
+                                        <div>
+                                            <span class="mim-text-font">
+                                                <p>In a Turkish girl with 2-methylbutyryl-CoA dehydrogenase deficiency (610006), Sass et al. (2008) identified a homozygous 1159G-A transition in exon 10 of the ACADSB gene, resulting in a glu387-to-lys (E387K) substitution. She showed normal development at age 3 years. The E387K mutation was found in 2 of 146 Turkish control chromosomes and in 2 of 96 Lebanese control chromosomes, yielding an allelic frequency of about 2% in these populations. In vitro studies of patient fibroblasts confirmed an impairment in isoleucine degradation.  </p>
+                                            </span>
+                                        </div>
+
+                                    
+
+                                    <div>
+                                        <br />
+                                    </div>
+
+                                </div>
+
+                            
+
+                        </div>
+
+                    
+
+
+                    
+
+
+                    
+                        <div>
+                            <h4>
+                                <span class="mim-font">
+                                    <strong>REFERENCES</strong>
+                                </span>
+                            </h4>
+                            <div>
+                                <p />
+                            </div>
+
+                            <div>
+                                <ol>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Andresen, B. S., Christensen, E., Corydon, T. J., Bross, P., Pilgaard, B., Wanders, R. J. A., Ruiter, J. P. N., Simonsen, H., Winter, V., Knudsen, I., Schroeder, L. D., Gregersen, N., Skovby, F.
+                                                <strong>Isolated 2-methylbutyrylglycinuria caused by short/branched-chain acyl-CoA dehydrogenase deficiency: identification of a new enzyme defect, resolution of its molecular basis, and evidence for distinct acyl-CoA dehydrogenases in isoleucine and valine metabolism.</strong>
+                                                Am. J. Hum. Genet. 67: 1095-1103, 2000.
+                                                
+                                                    
+                                                        [PubMed: 11013134]
+                                                    
+                                                    
+                                                        [Full Text: https://linkinghub.elsevier.com/retrieve/pii/S0002-9297(07)62939-5]
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Arden, K. C., Viars, C. S., Fu, K., Rozen, R.
+                                                <strong>Localization of short/branched chain acyl-CoA dehydrogenase (ACADSB) to human chromosome 10.</strong>
+                                                Genomics 25: 743-745, 1995.
+                                                
+                                                    
+                                                        [PubMed: 7759115]
+                                                    
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Gibson, K. M., Burlingame, T. G., Hogema, B., Jakobs, C., Schutgens, R. B. H., Millington, D., Roe, C. R., Roe, D. S., Sweetman, L., Steiner, R. D., Linck, L., Pohowalla, P., Sacks, M., Kiss, D., Rinaldo, P., Vockley, J.
+                                                <strong>2-Methylbutyryl-coenzyme A dehydrogenase deficiency: a new inborn error of L-isoleucine metabolism.</strong>
+                                                Pediat. Res. 47: 830-833, 2000.
+                                                
+                                                    
+                                                        [PubMed: 10832746]
+                                                    
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Madsen, P. P., Kibaek, M., Roca, X., Sachidanandam, R., Krainer, A. R., Christensen, E., Steiner, R. D., Gibson, K. M., Corydon, T. J., Knudsen, I., Wanders, R. J. A., Ruiter, J. P. N., Gregersen, N., Andresen, B. S.
+                                                <strong>Short/branched-chain acyl-CoA dehydrogenase deficiency due to an IVS3+3A-G mutation that causes exon skipping.</strong>
+                                                Hum. Genet. 118: 680-690, 2006.
+                                                
+                                                    
+                                                        [PubMed: 16317551]
+                                                    
+                                                    
+                                                        [Full Text: https://dx.doi.org/10.1007/s00439-005-0070-4]
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Rozen, R., Vockley, J., Zhou, L., Milos, R., Willard, J., Fu, K., Vicanek, C., Low-Nang, L., Torban, E., Fournier, B.
+                                                <strong>Isolation and expression of a cDNA encoding the precursor for a novel member (ACADSB) of the acyl-CoA dehydrogenase gene family.</strong>
+                                                Genomics 24: 280-287, 1994.
+                                                
+                                                    
+                                                        [PubMed: 7698750]
+                                                    
+                                                    
+                                                        [Full Text: https://linkinghub.elsevier.com/retrieve/pii/S0888-7543(84)71617-X]
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                        <li>
+                                            <p class="mim-text-font ">
+                                                Sass, J. O., Ensenauer, R., Roschinger, W., Reich, H., Steuerwald, U., Schirrmacher, O., Engel, K., Haberle, J., Andresen, B. S., Megarbane, A., Lehnert, W., Zschocke, J.
+                                                <strong>2-Methylbutyryl-coenzyme A dehydrogenase deficiency: functional and molecular studies on a defect in isoleucine catabolism.</strong>
+                                                Molec. Genet. Metab. 93: 30-35, 2008.
+                                                
+                                                    
+                                                        [PubMed: 17945527]
+                                                    
+                                                    
+                                                        [Full Text: https://linkinghub.elsevier.com/retrieve/pii/S1096-7192(07)00401-5]
+                                                    
+                                               
+                                            </p>
+                                        </li>
+                                    
+                                </ol>
+
+                                <div>
+                                    <br />
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    
+
+
+                    
+                        <div>
+                            <div class="row">
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                    <span class="mim-text-font">
+                                        Contributors:
+                                    </span>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <span class="mim-text-font">
+                                        Cassandra L. Kniffin - updated : 3/19/2010<br />Cassandra L. Kniffin - updated : 3/27/2006<br />Victor A. McKusick - updated : 12/19/2000<br />Victor A. McKusick - updated : 12/14/2000
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <div class="row">
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                    <span class="mim-text-font">
+                                        Creation Date:
+                                    </span>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <span class="mim-text-font">
+                                        Victor A. McKusick : 1/9/1995
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+
+                    
+                        <div>
+                            <div class="row">
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+                                    <span class="mim-text-font">
+                                        Edit History:
+                                    </span>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <span class="mim-text-font">
+                                        carol : 02/11/2011<br />wwang : 3/29/2010<br />ckniffin : 3/19/2010<br />carol : 4/4/2006<br />ckniffin : 3/27/2006<br />alopez : 3/17/2004<br />carol : 4/30/2002<br />carol : 12/19/2000<br />terry : 12/19/2000<br />carol : 12/14/2000<br />terry : 12/14/2000<br />mark : 4/19/1995<br />carol : 1/9/1995
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                </div>
+
+            
+
+        </div>
+
+    </div>
+
+
+
+    </div>
+    <!-- <div id="content"> -->
+
+
+    <div id="footer">
+        
+
+            <div class="container ">
+                <div class="row">
+                    <br /><br />
+                </div>
+            </div>
+
+            <div class="mim-footer hidden-print">
+                <div class="container">
+                    <div class="row">
+                        <p />
+                    </div>
+                    <div class="row text-center small">
+                        NOTE: OMIM is intended for use primarily by physicians and other professionals concerned with genetic disorders, by genetics researchers,
+                        and by advanced students in science and medicine. While the OMIM database is open to the public, users seeking information about a personal
+                        medical or genetic condition are urged to consult with a qualified physician for diagnosis and for answers to personal questions.
+                        <br />
+                        OMIM<sup>&reg;</sup> and Online Mendelian Inheritance in Man<sup>&reg;</sup> are registered trademarks of the Johns Hopkins University.
+                        <br />
+                        Copyright<sup>&reg;</sup> 1966-2018 Johns Hopkins University.
+                    </div>
+                </div>
+            </div>
+
+            <div class="mim-footer visible-print-block" style="position: relative;">
+                <div class="container">
+                    <div class="row">
+                        <p />
+                    </div>
+                    <div class="row text-center small">
+                        NOTE: OMIM is intended for use primarily by physicians and other professionals concerned with genetic disorders, by genetics researchers,
+                        and by advanced students in science and medicine. While the OMIM database is open to the public, users seeking information about a personal
+                        medical or genetic condition are urged to consult with a qualified physician for diagnosis and for answers to personal questions.
+                        <br />
+                        OMIM<sup>&reg;</sup> and Online Mendelian Inheritance in Man<sup>&reg;</sup> are registered trademarks of the Johns Hopkins University.
+                        <br />
+                        Copyright<sup>&reg;</sup> 1966-2018 Johns Hopkins University.
+                        <br />
+                        Printed: Oct. 16, 2018
+                    </div>
+                </div>
+            </div>
+
+        
+    </div>
+    <!-- <div id="footer"> -->
+
+
+    <div class="modal fade" id="donationPopupModal" tabindex="-1" role="dialog" aria-labelledby="donationPopupModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" id="donationPopupCancel" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="donationPopupModalLabel">OMIM Donation:</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            Dear OMIM User,
+                        </div>
+                    </div>
+                    <div class="row">
+                        <p />
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            At the request of the NIH and to ensure long-term funding for the OMIM
+                            project, we must diversify our revenue stream. We are determined to
+                            keep this website freely accessible. Unfortunately, it is not free to
+                            produce.  Expert curators review the literature and organize it to
+                            facilitate your work. Over 90% of the OMIM¡¯s operating expenses go to
+                            salary support for MD and PhD science writers and biocurators. Please
+                            consider making a donation now and again in the future. We need
+                            long-term secure funding to provide you the information that you need
+                            at your fingertips.
+                        </div>
+                    </div>
+                    <div class="row">
+                        <p />
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            Thank you in advance for your generous support, <br/>
+                            Ada Hamosh, MD, MPH <br/>
+                            Scientific Director, OMIM <br/>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="donationPopupDonate" class="btn btn-success" data-dismiss="modal">Donate To OMIM!</button>
+              </div>
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </body>
+
+</html>
+
+

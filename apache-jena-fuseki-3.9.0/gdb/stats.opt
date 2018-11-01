@@ -1,0 +1,11 @@
+(stats
+  (meta
+    (timestamp "2018-10-25T21:32:01.400+08:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>)
+    (run@ "2018/10/25 21:32:01 CST")
+    (count 32136))
+  (<http://www.druggenedisease.org/Negative_regulation> 286)
+  (<http://www.druggenedisease.org/Positive_regulation> 968)
+  (<http://www.druggenedisease.org/Regulation> 521)
+  (<http://www.druggenedisease.org/related2> 962)
+  (<http://www.druggenedisease.org/belong2> 29399)
+  (other 0))

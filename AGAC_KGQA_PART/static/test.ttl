@@ -1,0 +1,60 @@
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gene: <http://www.agac.com/gene/> .
+@prefix mutation: <http://www.agac.com/mutation/> .
+@prefix disease: <http://www.drugbank.com/disease/> .
+@prefix drug: <http://www.drugbank.com/drug/> .
+@prefix function: <http://www.agac.com/function/> .
+@prefix : <http://www.agac.com/schema/> .
+
+mutation:mutation_1	:theme	gene:PSEN1;
+					:type "INS";
+					:cause	function:LOF .
+function:LOF	:cause	disease:ALZHEIMER .
+drug:Theophylline	:agonist	gene:PSEN1 .
+
+
+mutation:mutation_2	:theme	gene:PSEN1;
+					:type "LEU-PRO";
+					:cause	function:GOF .
+function:GOF	:cause	disease:ALZHEIMER .
+drug:Theophylline	:agonist	gene:PSEN1 .
+
+mutation:mutation_3	:theme	gene:NKX2-1;
+					:type "GLN-TER";
+					:cause	function:LOF .
+function:LOF	:cause	disease:CHOREA .
+drug:Fostamatinib	:agonist	gene:NKX2-1 .
+
+
+mutation:mutation_4	:theme	gene:SIAE;
+					:type "PHE-SER";
+					:cause	function:GOF.
+function:GOF	:cause	disease:AUTOIMMUNE.
+drug:Phosphoenolpyruvate	:agonist	gene:SIAE.
+drug:N-Acetylmannosaminitol	:agonist	gene:SIAE.
+drug:Malate-Ion	:antigonist	gene:SIAE.
+
+mutation:mutation_5	:theme	gene:CYB5R3;
+				    :type "LEU-PRO";
+					:cause	function:LOF.
+function:LOF	:cause	disease:METHEMOGLOBINEMIA.
+drug:NADH	:agonist	gene:CYB5R3.
+drug:Flavin_adenine_dinucleotide	:agonist	gene:CYB5R3.
+drug:Copper	:antigonist	gene:CYB5R3.
+
+
+mutation:mutation_6	:theme	gene:RHBDF2;
+				    :type "G-A";
+				    :type	"IVS2DS";
+					:cause	function:LOF .
+function:LOF	:cause	disease:JOUBERT_SYNDROME.
+drug:Crofelemer	:antigonist	gene:RHBDF2 .
+
+
+
+
+
+
+
+
+
