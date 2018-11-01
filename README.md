@@ -27,7 +27,8 @@
 <strong>注：这个是一个非常简版的问答Demo,可以基于以上思路改进。并且自己抽空再去完善。本人并不是研究该方向，只是抽了两天多时间做了这个希望熟悉下基本流程涨点知识，有特别多的不足，望大神指点。
 此外这边数据目前不方便共享，其中某些节点是用神经网络预测得到。只提供了部分几条</strong>
 
-本代码参考了：https://github.com/YeYzheng/KGQA-Based-On-medicine
+
 
 ![](/picture/20181101110113.png)
 ![](/picture/1-1.png)
+参考：https://github.com/YeYzheng/KGQA-Based-On-medicine
