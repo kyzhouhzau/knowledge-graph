@@ -31,4 +31,5 @@
 
 ![](/picture/20181101110113.png)
 ![](/picture/1-1.png)
+
 参考：https://github.com/YeYzheng/KGQA-Based-On-medicine
