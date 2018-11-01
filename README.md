@@ -28,3 +28,6 @@
 此外这边数据目前不方便共享，其中某些节点是用神经网络预测得到。只提供了部分几条</strong>
 
 本代码参考了：https://github.com/YeYzheng/KGQA-Based-On-medicine
+
+![image][./picture/20181101110113.png]
+![image][./picture/33269619664fc61086c5d13684a999e.png]
