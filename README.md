@@ -4,7 +4,7 @@
     数据清洗，预处理后构建RDF三元组
     三元组结构：(不做描述)
 
-# step2:数据载入图数据库Jemna
+# step2:数据载入图数据库Jena
     ./tdbloader --loc=E:\KG_DEMO\AGAC_KGQA_PART\static\test.ttl \tdb
     #启动服务
     ./fuseki-server --update --loc=E:\apache-jena-fuseki-3.9.0\tdb  /tdb
